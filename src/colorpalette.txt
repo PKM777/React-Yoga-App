@@ -1,0 +1,10 @@
+black #524A4E
+light pink #FFC0D3
+pink #FF5C8D
+pink white #FDEFF4
+
+
+
+p #FF0075
+b #172774
+g #77D970
